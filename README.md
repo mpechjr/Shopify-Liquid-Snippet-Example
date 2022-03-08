@@ -1,0 +1,2 @@
+# Shopify Liquid Snippet Example
+ 
